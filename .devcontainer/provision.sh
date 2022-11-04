@@ -3,6 +3,7 @@
 set -e
 
 gem install bundler
+bundler install
 npm install
 
 # Local provisioner?
