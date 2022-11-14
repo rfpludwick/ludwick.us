@@ -36,6 +36,13 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
+    # MASTODON
+  - Name: Mastodon
+    URL: https://mstdn.social
+    Username: '@rfpludwick'
+    Color: '#6D6EFF'
+    Icon-Class: fab fa-mastodon
+
     # CLUBHOUSE
   # - Name: Clubhouse
   #   URL: https://www.clubhouse.com
