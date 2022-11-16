@@ -42,6 +42,7 @@ links:
     Username: '@rfpludwick'
     Color: '#6D6EFF'
     Icon-Class: fab fa-mastodon
+    Rel: me
 
     # CLUBHOUSE
   # - Name: Clubhouse
