@@ -31,7 +31,7 @@ links:
 
     # MASTODON
   - Name: Mastodon
-    URL: https://mstdn.social
+    URL: https://hachyderm.io
     Username: '@rfpludwick'
     Color: '#6D6EFF'
     Icon-Class: fab fa-mastodon
