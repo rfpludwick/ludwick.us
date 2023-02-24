@@ -1,3 +1,6 @@
 {
-	"window.title": "${activeEditorMedium}${dirty}${separator}Ludwick.us${separator}${appName}"
+	"window.title": "${activeEditorMedium}${dirty}${separator}Ludwick.us${separator}${appName}",
+	"cSpell.words": [
+		"Polywork"
+	]
 }

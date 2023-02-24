@@ -4,7 +4,7 @@
 		{
 			"label": "Run YAML linting",
 			"type": "shell",
-			"command": "yamllint .",
+			"command": "scripts/concourse/yamllint.sh",
 			"group": "test",
 			"problemMatcher": [],
 			"presentation": {
@@ -15,7 +15,7 @@
 		{
 			"label": "Run Markdown linting",
 			"type": "shell",
-			"command": "markdownlint -c .markdownlint.yaml *.md **/*.md",
+			"command": "scripts/concourse/markdownlint.sh",
 			"group": "test",
 			"problemMatcher": [],
 			"presentation": {
@@ -26,7 +26,7 @@
 		{
 			"label": "Run shell linting",
 			"type": "shell",
-			"command": "find -name *.sh | xargs shellcheck",
+			"command": "scripts/concourse/shellcheck.sh",
 			"group": "test",
 			"problemMatcher": [],
 			"presentation": {

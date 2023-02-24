@@ -1,14 +1,16 @@
+---
+
 # YOUR NAME OR TITLE OF YOUR SITE
 name: Robert F.P. Ludwick
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Greetings and salutations. I'm a DevOps Software Engineering Family Man(ager) based out of the Portland, Oregon metropolitan area. I'm a doting father, video game enthusiast, general nerd, and technologist. Here are all of my pertinent links online.
+tagline: "Greetings and salutations. I'm a DevOps Software Engineering Family Man(ager) based out of the Portland, Oregon metropolitan area. I'm a doting father, video game enthusiast, general nerd, and technologist. Here are all of my pertinent links online."
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://secure.gravatar.com/avatar/3cccf79a9a9398dcaabc9e564a309024?s=500
+Image_URL: "https://secure.gravatar.com/avatar/3cccf79a9a9398dcaabc9e564a309024?s=500"
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: "https://source.unsplash.com/random"
 
 # SOCIAL MEDIA
 links:
@@ -31,10 +33,10 @@ links:
 
     # MASTODON
   - Name: Mastodon
-    URL: https://hachyderm.io
-    Username: '@rfpludwick'
-    Color: '#6D6EFF'
-    Icon-Class: fab fa-mastodon
+    URL: "https://hachyderm.io"
+    Username: "@rfpludwick"
+    Color: "#6D6EFF"
+    Icon-Class: "fab fa-mastodon"
     Rel: me
 
     # CLUBHOUSE
@@ -46,10 +48,10 @@ links:
 
     # LINKEDIN
   - Name: LinkedIn
-    URL: https://www.linkedin.com/in
+    URL: "https://www.linkedin.com/in"
     Username: rfpludwick
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+    Color: "#2867B2"
+    Icon-Class: "fab fa-linkedin-in"
 
     # YOUTUBE
   # - Name: YouTube
@@ -60,10 +62,10 @@ links:
 
     # GITHUB
   - Name: GitHub
-    URL: http://github.com
+    URL: "http://github.com"
     Username: rfpludwick
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
+    Color: "#6e5494"
+    Icon-Class: "fab fa-github"
 
     # EMAIL
   # - Name: Email
@@ -231,29 +233,29 @@ links:
 
     # CUSTOM LINK
   - Name: Pages/Blog
-    URL: https://pages.ludwick.us
-    Icon-Class: fas fa-scroll
-    Color: '#ffdd00'
-    Text_Color: '#ffffff'
+    URL: "https://pages.ludwick.us"
+    Icon-Class: "fas fa-scroll"
+    Color: "#ffdd00"
+    Text_Color: "#ffffff"
 
   - Name: Polywork
-    URL: https://polywork.ludwick.us
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
+    URL: "https://polywork.ludwick.us"
+    Icon-Class: "fas fa-link"
+    Color: "#ffb142"
+    Text_Color: "#ffffff"
 
     # TWITTER
   - Name: Twitter
-    URL: https://twitter.com
+    URL: "https://twitter.com"
     Username: rfpludwick
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Color: "#1DA1F2"
+    Icon-Class: "fab fa-twitter"
 
   - Name: Ludwick.us
-    URL: https://ludwick.us
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
+    URL: "https://ludwick.us"
+    Icon-Class: "fas fa-link"
+    Color: "#d94869"
+    Text_Color: "#ffffff"
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 # footer: 'Yes'
@@ -266,8 +268,8 @@ compress_html:
 
 # Exclude
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
+  - ".sass-cache/"
+  - ".jekyll-cache/"
   - gemfiles/
   - Gemfile
   - Gemfile.lock
@@ -280,9 +282,9 @@ exclude:
   - scripts
   - CODEOWNERS
   - LICENSE
-  - package*
+  - "package*"
   - README.md
-  - tailwind*
+  - "tailwind*"
   - nodemon.json
 
 # Base URL
