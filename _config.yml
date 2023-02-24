@@ -286,6 +286,7 @@ exclude:
   - README.md
   - "tailwind*"
   - nodemon.json
+  - Dockerfile
 
 # Base URL
 # baseurl: /links
