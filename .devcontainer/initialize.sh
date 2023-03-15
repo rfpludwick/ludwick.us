@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -eo pipefail
+set -exo pipefail
 
 if [ ! -d /tmp/vscode-devcontainer ]; then
 	mkdir /tmp/vscode-devcontainer
