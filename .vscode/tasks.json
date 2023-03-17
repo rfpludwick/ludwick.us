@@ -35,13 +35,25 @@
 			}
 		},
 		{
+			"label": "Run Dockerfile linting",
+			"type": "shell",
+			"command": "hadolint Dockerfile",
+			"group": "test",
+			"problemMatcher": [],
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
+			}
+		},
+		{
 			"label": "Run all linting",
 			"problemMatcher": [],
 			"dependsOrder": "sequence",
 			"dependsOn": [
 				"Run YAML linting",
 				"Run Markdown linting",
-				"Run shell linting"
+				"Run shell linting",
+				"Run Dockerfile linting"
 			]
 		},
 		{
