@@ -7,7 +7,7 @@ COPY . /app
 
 # Install nodemon and webrick
 RUN \
-	npm install --global nodemon && \
+	npm install --global nodemon@3.0.1 && \
 	bundle add webrick
 
 # Expose port 4000

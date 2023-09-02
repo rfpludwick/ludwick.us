@@ -30,10 +30,7 @@
 		4000
 	],
 	"remoteEnv": {
-		"TZ": "America/Los_Angeles",
 		"VAULT_ADDR": "${localEnv:VAULT_ADDR}",
-		"VAULT_GITHUB_TOKEN": "${localEnv:VAULT_GITHUB_TOKEN}",
-		"GEM_HOME": "/home/vscode/.gems",
-		"PATH": "${containerEnv:PATH}:/home/vscode/.gems/bin"
+		"VAULT_GITHUB_TOKEN": "${localEnv:VAULT_GITHUB_TOKEN}"
 	}
 }
