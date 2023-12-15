@@ -31,6 +31,13 @@ links:
   #   Color: '#DD2A7B'
   #   Icon-Class: fab fa-instagram
 
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: "https://www.linkedin.com/in"
+    Username: rfpludwick
+    Color: "#2867B2"
+    Icon-Class: "fab fa-linkedin-in"
+
     # MASTODON
   - Name: Mastodon
     URL: "https://hachyderm.io"
@@ -45,13 +52,6 @@ links:
   #   Username: '@harsh98trivedi'
   #   Color: '#f1c40f'
   #   Icon-Class: fas fa-hand-paper -mt-0.5
-
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: "https://www.linkedin.com/in"
-    Username: rfpludwick
-    Color: "#2867B2"
-    Icon-Class: "fab fa-linkedin-in"
 
     # YOUTUBE
   # - Name: YouTube
@@ -235,7 +235,7 @@ links:
   - Name: Pages/Blog
     URL: "https://pages.ludwick.us"
     Icon-Class: "fas fa-scroll"
-    Color: "#ffdd00"
+    Color: "#777777"
     Text_Color: "#ffffff"
 
   - Name: Polywork
@@ -244,12 +244,18 @@ links:
     Color: "#ffb142"
     Text_Color: "#ffffff"
 
-    # TWITTER
-  - Name: Twitter
-    URL: "https://twitter.com"
-    Username: rfpludwick
-    Color: "#1DA1F2"
-    Icon-Class: "fab fa-twitter"
+  - Name: IMDb
+    URL: "https://www.imdb.com/name/nm4943026/"
+    Icon-Class: "fa-brands fa-imdb"
+    Color: "#ffdd00"
+    Text_Color: "#ffffff"
+
+  #   # TWITTER
+  # - Name: Twitter
+  #   URL: "https://twitter.com"
+  #   Username: rfpludwick
+  #   Color: "#1DA1F2"
+  #   Icon-Class: "fab fa-twitter"
 
   - Name: Ludwick.us
     URL: "https://ludwick.us"
