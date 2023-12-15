@@ -10,7 +10,7 @@ tagline: "Greetings and salutations. I'm a DevOps Software Engineering Family Ma
 Image_URL: "https://secure.gravatar.com/avatar/3cccf79a9a9398dcaabc9e564a309024?s=500"
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: "https://source.unsplash.com/random"
+Cover_Image: "https://picsum.photos/1080?nocache="
 
 # SOCIAL MEDIA
 links:
@@ -192,6 +192,12 @@ links:
   #   Username: harsh98trivedi
   #   Color: '#FE5000'
   #   Icon-Class: fab fa-soundcloud
+
+  # - Name: Skype
+  #   URL: https://join.skype.com/invite/e6vMrfsYKn9e
+  #   Icon-Class: fa-brands fa-skype
+  #   Color: '#00aff0'
+  #   Text_Color: '#ffffff'
 
   #    # TIKTOK
   # - Name: TikTok
