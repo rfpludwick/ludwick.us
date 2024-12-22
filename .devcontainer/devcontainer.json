@@ -18,7 +18,8 @@
 		"timonwong.shellcheck",
 		"davidanson.vscode-markdownlint",
 		"zbr.vscode-ansible",
-		"ginfuru.ginfuru-vscode-jekyll-syntax"
+		"ginfuru.ginfuru-vscode-jekyll-syntax",
+		"mrmlnc.vscode-json5"
 	],
 	"mounts": [
 		"source=${localEnv:HOME}/.aws,target=/home/vscode/.aws,type=bind,consistency=cached",

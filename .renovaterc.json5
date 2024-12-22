@@ -1,0 +1,6 @@
+{
+	extends: [
+		"viernet/renovate-config:renovate.json5",
+	],
+	prConcurrentLimit: 1,
+}
