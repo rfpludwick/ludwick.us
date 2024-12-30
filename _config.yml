@@ -31,6 +31,35 @@ links:
   #   Color: '#DD2A7B'
   #   Icon-Class: fab fa-instagram
 
+    # TWITTER
+  # - Name: Twitter
+  #   URL: https://x.com
+  #   Username: harsh98trivedi
+  #   Color: '#1DA1F2'
+  #   Icon-Class: fab fa-twitter
+
+  # THREADS.NET
+  # - Name: Threads
+  #   URL: https://threads.net
+  #   Username: harsh98trivedi
+  #   Color: '#000000'
+  #   Icon-Class: fa-brands fa-threads
+  #   Text_Color: '#ffffff'
+
+  # MESSENGER
+  # - Name: Messenger
+  #   URL: https://m.me
+  #   Username: theharshtrivedi
+  #   Color: '#006AFF'
+  #   Icon-Class: fab fa-facebook-messenger
+
+    # CLUBHOUSE
+  # - Name: Clubhouse
+  #   URL: https://www.clubhouse.com
+  #   Username: '@harsh98trivedi'
+  #   Color: '#f1c40f'
+  #   Icon-Class: fas fa-hand-paper -mt-0.5
+
     # LINKEDIN
   - Name: LinkedIn
     URL: "https://www.linkedin.com/in"
@@ -90,12 +119,20 @@ links:
   #   Color: '#1ab7ea'
   #   Text_Color: '#ffffff'
 
-    # MESSENGER
-  # - Name: Messenger
-  #   URL: https://m.me
-  #   Username: theharshtrivedi
-  #   Color: '#006AFF'
-  #   Icon-Class: fab fa-facebook-messenger
+  # Google Calendar Appointment
+  # - Name: Google Appointment
+  #   URL: https://calendar.app.google/YDATCWmoZNXCEGiW6
+  #   Color: '#1b66c9'
+  #   Icon-Class: fa-regular fa-calendar-days
+  #   Text_Color: '#ffffff'
+
+    # Cal.com
+  # - Name: Cal.com
+  #   URL: https://cal.com
+  #   Username: harshtrivedi
+  #   Color: '#888888'
+  #   Icon-Class: fa fa-calendar-check
+  #   Text_Color: '#ffffff'
 
     # REDDIT
   # - Name: Reddit
