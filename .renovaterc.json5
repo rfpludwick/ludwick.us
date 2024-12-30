@@ -2,4 +2,7 @@
 	extends: [
 		"rfpludwick/renovate-config:renovate.json5",
 	],
+	enabledManagers: [
+		"devcontainer",
+	],
 }
