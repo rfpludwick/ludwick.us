@@ -281,11 +281,11 @@ links:
     Color: "#777777"
     Text_Color: "#ffffff"
 
-  - Name: Polywork
-    URL: "https://polywork.ludwick.us"
-    Icon-Class: "fas fa-link"
-    Color: "#ffb142"
-    Text_Color: "#ffffff"
+  # - Name: Polywork
+  #   URL: "https://polywork.ludwick.us"
+  #   Icon-Class: "fas fa-link"
+  #   Color: "#ffb142"
+  #   Text_Color: "#ffffff"
 
   - Name: IMDb
     URL: "https://www.imdb.com/name/nm4943026/"
