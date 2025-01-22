@@ -75,6 +75,13 @@ links:
     Icon-Class: "fab fa-mastodon"
     Rel: me
 
+    # BLUESKY
+  - Name: Bluesky
+    URL: "https://bsky.app/profile/rfpludwick.bsky.social"
+    Username: "@rfpludwick.bsky.social"
+    Color: "#1683f8"
+    Icon-Class: "fab fa-bluesky"
+
     # CLUBHOUSE
   # - Name: Clubhouse
   #   URL: https://www.clubhouse.com
