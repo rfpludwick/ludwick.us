@@ -78,7 +78,7 @@ links:
     # BLUESKY
   - Name: Bluesky
     URL: "https://bsky.app/profile"
-    Username: "rfpludwick.bsky.social"
+    Username: rfpludwick.bsky.social
     Color: "#1683f8"
     Icon-Class: "fab fa-bluesky"
 
