@@ -15,6 +15,55 @@ Cover_Image: "https://picsum.photos/1080?nocache="
 # SOCIAL MEDIA
 links:
 
+  - Name: LinkedIn
+    URL: "https://www.linkedin.com/in"
+    Username: rfpludwick
+    Color: "#2867B2"
+    Icon-Class: "fab fa-linkedin-in"
+
+  - Name: Bluesky
+    URL: "https://bsky.app/profile"
+    Username: rfpludwick.bsky.social
+    Color: "#1683f8"
+    Icon-Class: "fab fa-bluesky"
+
+  - Name: Mastodon
+    URL: "https://hachyderm.io"
+    Username: "@rfpludwick"
+    Color: "#6D6EFF"
+    Icon-Class: "fab fa-mastodon"
+    Rel: me
+
+  - Name: GitHub
+    URL: "http://github.com"
+    Username: rfpludwick
+    Color: "#6e5494"
+    Icon-Class: "fab fa-github"
+
+  - Name: Pages/Blog
+    URL: "https://pages.ludwick.us"
+    Icon-Class: "fas fa-scroll"
+    Color: "#777777"
+    Text_Color: "#ffffff"
+
+  - Name: Spotify
+    URL: http://open.spotify.com/artist
+    Username: 0kYajBTzBdvecu6FrdhItf
+    Color: '#1DB954'
+    Icon-Class: fab fa-spotify
+
+  - Name: IMDb
+    URL: "https://www.imdb.com/name/nm4943026/"
+    Icon-Class: "fa-brands fa-imdb"
+    Color: "#ffdd00"
+    Text_Color: "#ffffff"
+
+  - Name: Ludwick.us
+    URL: "https://ludwick.us"
+    Icon-Class: "fas fa-link"
+    Color: "#d94869"
+    Text_Color: "#ffffff"
+
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
     # FACEBOOK
@@ -60,28 +109,6 @@ links:
   #   Color: '#f1c40f'
   #   Icon-Class: fas fa-hand-paper -mt-0.5
 
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: "https://www.linkedin.com/in"
-    Username: rfpludwick
-    Color: "#2867B2"
-    Icon-Class: "fab fa-linkedin-in"
-
-    # MASTODON
-  - Name: Mastodon
-    URL: "https://hachyderm.io"
-    Username: "@rfpludwick"
-    Color: "#6D6EFF"
-    Icon-Class: "fab fa-mastodon"
-    Rel: me
-
-    # BLUESKY
-  - Name: Bluesky
-    URL: "https://bsky.app/profile"
-    Username: rfpludwick.bsky.social
-    Color: "#1683f8"
-    Icon-Class: "fab fa-bluesky"
-
     # CLUBHOUSE
   # - Name: Clubhouse
   #   URL: https://www.clubhouse.com
@@ -95,13 +122,6 @@ links:
   #   Username: UCS3zvA_2r1iGT7MB3NVCGAw
   #   Color: '#ff0000'
   #   Icon-Class: fab fa-youtube
-
-    # GITHUB
-  - Name: GitHub
-    URL: "http://github.com"
-    Username: rfpludwick
-    Color: "#6e5494"
-    Icon-Class: "fab fa-github"
 
     # EMAIL
   # - Name: Email
@@ -223,13 +243,6 @@ links:
   #   Color: '#ff2865'
   #   Text_Color: '#ffffff'
 
-    # SPOTIFY
-  # - Name: Spotify
-  #   URL: http://open.spotify.com/user
-  #   Username: 314ihryk3edvtusti6il3oy3x5da
-  #   Color: '#1DB954'
-  #   Icon-Class: fab fa-spotify
-
     # SOUNDCLOUD
   # - Name: SoundCloud
   #   URL: https://www.soundcloud.com
@@ -281,24 +294,11 @@ links:
   #   Color: '#FFDD00'
   #   Text_Color: '#000000'
 
-    # CUSTOM LINK
-  - Name: Pages/Blog
-    URL: "https://pages.ludwick.us"
-    Icon-Class: "fas fa-scroll"
-    Color: "#777777"
-    Text_Color: "#ffffff"
-
   # - Name: Polywork
   #   URL: "https://polywork.ludwick.us"
   #   Icon-Class: "fas fa-link"
   #   Color: "#ffb142"
   #   Text_Color: "#ffffff"
-
-  - Name: IMDb
-    URL: "https://www.imdb.com/name/nm4943026/"
-    Icon-Class: "fa-brands fa-imdb"
-    Color: "#ffdd00"
-    Text_Color: "#ffffff"
 
   #   # TWITTER
   # - Name: Twitter
@@ -306,12 +306,6 @@ links:
   #   Username: rfpludwick
   #   Color: "#1DA1F2"
   #   Icon-Class: "fab fa-twitter"
-
-  - Name: Ludwick.us
-    URL: "https://ludwick.us"
-    Icon-Class: "fas fa-link"
-    Color: "#d94869"
-    Text_Color: "#ffffff"
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 # footer: 'Yes'
