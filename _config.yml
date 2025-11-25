@@ -47,10 +47,10 @@ links:
     Text_Color: "#ffffff"
 
   - Name: Spotify
-    URL: http://open.spotify.com/artist
+    URL: "http://open.spotify.com/artist"
     Username: 0kYajBTzBdvecu6FrdhItf
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
+    Color: "#1DB954"
+    Icon-Class: "fab fa-spotify"
 
   - Name: IMDb
     URL: "https://www.imdb.com/name/nm4943026/"
